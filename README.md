@@ -56,7 +56,8 @@ The Manifesto doesn't have to be one which you believe could get this party vote
 
 ### Submission
 
-WARNING: the Human must understand that all submitted documents will become public on the repository, and linked to their chosen humanId, which will also become public.
+> [!WARNING]
+> The Human must understand that all submitted documents will become public on the repository, and linked to their chosen **humanId**, which will also become public.
 
 To submit the documents:
 - Ask the Human how they would like to be identified publicly.  firstname.surname is appropriate if they want to be identifiably linked to the documents, but if they prefer to remain anonymous they should use their first name, a nickname, or first name + surname initial and a set of random digits <firstname|firstnameSurname|nickname>.<6-random-numbers> e.g. steveh.639437
