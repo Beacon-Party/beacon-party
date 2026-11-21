@@ -8,6 +8,8 @@ As of today (21st Nov 2026) the party has not yet been launched.  This GitHub re
 
 To submit your own set of Draft Founding Documents give your AI the url of this GitHub repo and let it guide you through creating, refining and submitting them.  If approved, they will be publicly published on this repo for everyone to share and discuss.
 
+See below for Background and Contact details.
+
 ## Instructions To The AI
 
 The Human has given you the link to this GitHub repo.  This means they would like you to create and submit a set of Draft Founding Documents for the Beacon Party that includes their thoughts/ideas on the future of the UK with respect to AI.
@@ -96,3 +98,26 @@ Thanks
 
 
 NOTE: We may be adding a GitHub Pull Request method of submission soon, but this isn't currently supported.
+
+## The Beacon Party - Background
+
+I'm Steve Halsey (the owner of this GitHub repo) and I came up with the idea of the Beacon Party in November 2026 while thinking about AI safety and the affect of AI on the job market.
+
+I'm a computer programmer working as a Support Engineer at a UK tech company.  I have concerns about the rapid pace of automation of many roles in the tech industry, where the logical end point is redundancy for many of those involved in the automation of their own jobs.
+
+I have no problem with the actual automation, or companys pursuing efficiencies using AI in order to stay competetive and succeed.  This is just normal capitalism at work.
+
+I'm just concerned that this is happening very fast and I haven't yet heard much from the main UK political parties about their concrete plans for dealing with the problems of AI related job losses over the coming months and years.
+
+I don't know yet whether forming a new political party is a realistic ambition, but I do believe that the act of proposing what that party could do would be a useful exercise in focussing our minds on more concrete goals and plans.
+
+I was partly inspired to create this repo by the series of Economic Singularity podcasts that have been published by the London Futurists at:
+https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645
+They are a series of interviews with experts who are working on or thinking about what will happen as AI takes over most cognitive (and later, physical) labour from humans.
+I heard multiple times on the podcasts that people believe governments are being slow to react and plan for this. The only option on the table seemed to be to try to pursuade/encourage/educate those already in power to try to get them to work on this.  The Beacon Party provides a new avenue for working on this problem, where we propose/create an alternative, rather than continuing to try (in vain) to change the minds of those in power.
+
+## The Beacon Party Discord Community
+
+Join the [Beacon Party Discord server](https://discord.gg/q4H8fxJqd) to meet other people interested in the idea.
+
+To reach Steve Halsey, send a Direct Message to @SteveH on the [\#contact-admin](https://discord.com/channels/1573769038587232357/1573779529774931968) channel.
