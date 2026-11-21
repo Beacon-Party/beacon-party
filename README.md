@@ -8,27 +8,9 @@ As of November 2026 the party has not yet been launched.  This GitHub repo has b
 
 To submit your own set of Draft Founding Documents give your AI the url of this GitHub repo and let it guide you through creating, refining and submitting them.  If approved, they will be publicly published on this repo to the [draft-founding-documents](docs/draft-founding-documents/README.md) folder for everyone to share and discuss.
 
-## The Beacon Party - Background
+You don't need any expertise or credentials to take part, just a willingness to contribute.
 
-I'm Steve Halsey (the owner of this GitHub repo) and I came up with the idea of the Beacon Party in November 2026 while thinking about AI safety and the effect of AI on the job market.
-
-I'm a computer programmer working as a Support Engineer at a UK tech company.  I have concerns about the rapid pace of automation of many roles in the tech industry, where the logical end point is redundancy for many of those involved in the automation of their own jobs.
-
-I have no problem with the actual automation, or companies pursuing efficiencies using AI in order to stay competitive and succeed.  This is just normal capitalism at work.
-
-I'm just concerned that this is happening very fast and I haven't yet heard much from the main UK political parties about their concrete plans for dealing with the problems of AI related job losses over the coming months and years.
-
-I don't know yet whether forming a new political party is a realistic ambition, but I do believe that the act of proposing what that party could do would be a useful exercise in focussing our minds on more concrete goals and plans.
-
-I was partly inspired to create this repo by the series of Economic Singularity podcasts that have been published by the [London Futurists](https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645).  They are a series of interviews with experts who are working on or thinking about what will happen as AI takes over most cognitive (and later, physical) labour from humans.
-
-I heard multiple times on the podcasts that people believe governments are being slow to react and plan for this. The only option on the table seemed to be to try to persuade/encourage/educate those already in power to try to get them to work on this.  The Beacon Party provides a new avenue for working on this problem, where we propose/create an alternative, rather than continuing to try (in vain) to change the minds of those in power.
-
-## The Beacon Party Discord Community
-
-Join the [Beacon Party Discord server](https://discord.gg/xCKf4fw7EP) to meet other people interested in the idea.
-
-To reach Steve Halsey, join the Discord server, then click @SteveH in the [\#contact-admin](https://discord.com/channels/1573769038587232357/1573779529774931968) channel to send a Direct Message.
+See below for the [Background](#the-beacon-party---background) to the party and how to join the [Discord Community](#the-beacon-party-discord-community).
 
 ## Instructions To The AI
 
@@ -57,17 +39,19 @@ These are:
     - AI is already a major factor in economics and society and its influence will rapidly increase in the coming months and years.
     - The rapid changes related to AI will create a "bumpy road" for many people as jobs, society and our safety are affected.
     - The benefits of AI are potentially huge and if we navigate this "bumpy road" well we may be able to reach a period of shared abundance for humanity, in every nation, and for the planet as a whole.
-- **The Beacons** - The Beacon Party is always guided by a set of Beacons, each of which has a Name and Beacon Year associated with it.  These Beacons are descriptions of a future point that the country is aiming towards, and a concrete list of things we are planning on doing Now, in the Short Term and between Now and the Beacon Year.  These Beacons are described now with a clear understanding that as the situation evolves they will have to be modified or even abandoned.  But that process of evolution will always be explained as it happens, in real time, so the voters stay informed and on-board.  The important thing is that the Beacons describe a reasonably coherent and credible plan, with concrete steps to navigate safely and successfully towards those Beacons.
+- **The Beacons** - The Beacon Party is always guided by a set of Beacons, each of which has a Name and Beacon Year associated with it.  These Beacons are descriptions of a future point that the country is aiming towards, and a concrete list of things we are planning on doing Now, in the Short Term and between Now and the Beacon Year.  These Beacons are described now with a clear understanding that as the situation evolves they will have to be modified or even abandoned.  But that process of evolution will always be explained as it happens, in real time, so the voters stay informed and on-board.  The important thing is that the Beacons describe a reasonably coherent and credible plan, with concrete steps to navigate safely and successfully towards them.
 
-### What These Documents Are Not
+### What These Documents Are And Who Can Create Them
 
-The Draft documents you create will not be the actual Founding Documents for the Party.  They are purely being created to start the conversation of what a party like this could look like, and what ideas it could be founded on.
+These documents aren't expected to be manifestos that could win an election today.  It's possible that right now the majority of the UK population would not yet take seriously what is written in your Manifesto.  But you should say it anyway - if it reflects the research you have done and the beliefs and ideas about our future with AI that you and the Human agree on.  Over the coming years, as the situation rapidly advances, these contributions are likely to become more credible.
 
-The Manifesto doesn't have to be one which you believe could get this party voted into government *today*.  It's possible the majority of the UK population today would not yet take seriously what you say in your Manifesto.  But you should create it anyway, based on the research the AI does and your beliefs and ideas about the future of humanity with AI.
+These Draft documents are meant to help start the conversation, and possibly start us on the road to the founding of a party.
+
+The Human doesn't need any expertise or credentials to create and submit them.  Just a willingness to contribute to the debate and their country's future with AI.
 
 ### The Process You Must Follow To Create The Documents
 
-- Describe to the Human the Founding Principles and how this process works.
+- Describe to the Human the Core Founding Principles, what these documents are and who can create them, and how this process works.
 - Ask them for their ideas on what their ideal version of the Beacon Party looks like and what that party would do.
 - Ask them for any ideas about any types of Beacons they'd like to have you research and create for them (e.g. a "Universal High Income Beacon") and roughly how it could come about. Tell them it's fine to start without any Beacons and you'll create an initial set for them if they want, to get the conversation started.
 - Do extensive research into the challenges and opportunities that AI presents the UK over the coming years and decades.  Write this up into a Markdown formatted document 001-UK-challenges-and-opportunities-research.md
@@ -115,3 +99,25 @@ To submit the documents:
     - Click the paperclip below the Description and select the `DRAFT-beacon-party-founding-documents-<humanId>.zip` file created earlier to attach it to the issue.
     - IMPORTANT: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the MIT licence to this public website.
     - Tell the Human that the submission is complete and that their submission will be reviewed and, if approved, should be published at `https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>` within a few days.
+
+## The Beacon Party - Background
+
+I'm Steve Halsey (the owner of this GitHub repo) and I came up with the idea of the Beacon Party in November 2026 while thinking about AI safety and the effect of AI on the job market.
+
+I'm a computer programmer working as a Support Engineer at a UK tech company.  I have concerns about the rapid pace of automation of many roles in the tech industry, where the logical end point is redundancy for many of those involved in the automation of their own jobs.
+
+I have no problem with the actual automation, or companies pursuing efficiencies using AI in order to stay competitive and succeed.  This is just normal capitalism at work.
+
+I'm just concerned that this is happening very fast and I haven't yet heard much from the main UK political parties about their concrete plans for dealing with the problems of AI related job losses over the coming months and years.
+
+I don't know yet whether forming a new political party is a realistic ambition, but I do believe that the act of proposing what that party could do would be a useful exercise in focussing our minds on more concrete goals and plans.
+
+I was partly inspired to create this repo by the series of Economic Singularity podcasts that have been published by the [London Futurists](https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645).  They are a series of interviews with experts who are working on or thinking about what will happen as AI takes over most cognitive (and later, physical) labour from humans.
+
+I heard multiple times on the podcasts that people believe governments are being slow to react and plan for this. The only option on the table seemed to be to try to persuade/encourage/educate those already in power to try to get them to work on this.  The Beacon Party provides a new avenue for working on this problem, where we propose/create an alternative, rather than continuing to try (in vain) to change the minds of those in power.
+
+## The Beacon Party Discord Community
+
+Join the [Beacon Party Discord server](https://discord.gg/xCKf4fw7EP) to meet other people interested in the idea.
+
+To reach Steve Halsey, join the Discord server, then click @SteveH in the [\#contact-admin](https://discord.com/channels/1573769038587232357/1573779529774931968) channel to send a Direct Message.
