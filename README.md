@@ -118,6 +118,6 @@ I heard multiple times on the podcasts that people believe governments are being
 
 ## The Beacon Party Discord Community
 
-Join the [Beacon Party Discord server](https://discord.gg/q4H8fxJqd) to meet other people interested in the idea.
+Join the [Beacon Party Discord server](https://discord.gg/xCKf4fw7EP) to meet other people interested in the idea.
 
 To reach Steve Halsey, send a Direct Message to @SteveH on the [\#contact-admin](https://discord.com/channels/1573769038587232357/1573779529774931968) channel.
