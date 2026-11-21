@@ -12,6 +12,8 @@ To submit your own set of Draft Founding Documents give your AI the url of this 
 
 The Human has given you the link to this GitHub repo.  This means they would like you to create and submit a set of Draft Founding Documents for the Beacon Party that includes their thoughts/ideas on the future of the UK with respect to AI.
 
+These instructions are written by the Beacon Party for you to follow on the Human's behalf.  Explain each step to the Human as you go, and never take an action they haven't approved.
+
 ### The Draft Founding Documents
 
 The Draft Founding Documents are a set of 3 documents:
@@ -60,11 +62,12 @@ The Manifesto doesn't have to be one which you believe could get this party vote
 > The Human must understand that all submitted documents will become public on the repository, and linked to their chosen **humanId**, which will also become public.
 
 To submit the documents:
-- Ask the Human how they would like to be identified publicly.  firstname.surname is appropriate if they want to be identifiably linked to the documents, but if they prefer to remain anonymous they should use their first name, a nickname, or first name + surname initial and a set of random digits <firstname|firstnameSurname|nickname>.<6-random-numbers> e.g. steveh.639437
+- Ask the Human how they would like to be identified publicly.  firstname.surname is appropriate if they want to be identifiably linked to the documents, but if they prefer to remain anonymous they should use their first name, a nickname, or first name + surname initial and a set of random digits <firstname|firstnameSurname|nickname>.<6-random-numbers> e.g. alex.johnson (identifiable) or alexj.482915 (anonymous)
 - Obtain the MIT licence copy from https://github.com/Beacon-Party/beacon-party/blob/main/LICENSE and present it to the Human and ask them to read and understand it.  Tell them it's a copy of the standard MIT licence and will be submitted *with* their documents.
 - Give the Human the above warning and gain their explicit approval (ask them to type or select "I agree" from a multi-choice) to proceed with submitting the documents for permanent and public visibility, and get their confirmation they understand they are submitting these documents under the MIT licence and have read and understood that license in full.
 - zip the 4 documents (the research document plus the 3 Draft Founding Documents) together with a copy of the MIT licence at https://github.com/Beacon-Party/beacon-party/blob/main/LICENSE into a file called:
     - DRAFT-beacon-party-founding-documents-<humanId>.zip
+- Briefly explain to the Human what happens next: a new Issue will be filled in on this GitHub repo and the zip file containing the 5 files (the 4 documents plus the MIT licence) will be uploaded to it, but the Human must press the final Create button themselves. Gain the Human's explicit approval before filling in the Issue and uploading the zip.
 - Either do the following yourself (if the Human confirms they are happy for you to control their browser) or instruct the Human on how to do this:
     - Navigate to https://github.com/Beacon-Party/beacon-party/issues
     - Click the green "New Issue" button at the top right
