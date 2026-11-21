@@ -115,6 +115,4 @@ To submit the documents:
     - Click the paperclip below the Description and select the `DRAFT-beacon-party-founding-documents-<humanId>.zip` file created earlier to attach it to the issue.
     - IMPORTANT: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the MIT licence to this public website.
     - Tell the Human that the submission is complete and that their submission will be reviewed and, if approved, should be published at `https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-party-founding-document/<humanId>` within a few days.
-
-
-NOTE: We may be adding a GitHub Pull Request method of submission soon, but this isn't currently supported.
+    
