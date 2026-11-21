@@ -1,0 +1,14 @@
+# Draft Founding Documents
+
+This folder will hold the sets of Draft Founding Documents submitted for the Beacon Party.  There are no submissions yet.
+
+Each approved submission will be published in its own folder, named after the submitter's chosen humanId (e.g. `alex.johnson` or `alexj.482915`), containing:
+- `001-UK-challenges-and-opportunities-research.md` - the research the documents are based on
+- `002-DRAFT-the-beacon-party-one-page-manifesto.md`
+- `003-DRAFT-the-beacon-party-full-manifesto.md`
+- `004-DRAFT-the-beacon-party-founders-guiding-notes.md`
+- `LICENSE` - the MIT licence the documents were submitted under
+
+These are drafts, created by people and their AIs to start the conversation about what the Beacon Party could look like.  They are not the party's actual Founding Documents.
+
+To submit your own, see the [main README](../../README.md).

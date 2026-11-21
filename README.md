@@ -6,7 +6,7 @@ The Beacon Party is a UK political party that focusses on the challenges and opp
 
 As of November 2026 the party has not yet been launched.  This GitHub repo has been created to collect ideas for the founding of the party, in the form of Draft Founding Documents.
 
-To submit your own set of Draft Founding Documents give your AI the url of this GitHub repo and let it guide you through creating, refining and submitting them.  If approved, they will be publicly published on this repo for everyone to share and discuss.
+To submit your own set of Draft Founding Documents give your AI the url of this GitHub repo and let it guide you through creating, refining and submitting them.  If approved, they will be publicly published on this repo to the [draft-founding-documents](docs/draft-founding-documents/README.md) folder for everyone to share and discuss.
 
 ## The Beacon Party - Background
 
@@ -106,7 +106,7 @@ To submit the documents:
       which I have read and understood.
 
       I understand that they will be reviewed and, if approved, published at:-
-      https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-party-founding-document/<humanId>
+      https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>
 
       Thanks
 
@@ -114,5 +114,4 @@ To submit the documents:
       ```
     - Click the paperclip below the Description and select the `DRAFT-beacon-party-founding-documents-<humanId>.zip` file created earlier to attach it to the issue.
     - IMPORTANT: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the MIT licence to this public website.
-    - Tell the Human that the submission is complete and that their submission will be reviewed and, if approved, should be published at `https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-party-founding-document/<humanId>` within a few days.
-    
+    - Tell the Human that the submission is complete and that their submission will be reviewed and, if approved, should be published at `https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>` within a few days.
