@@ -19,7 +19,7 @@ These instructions are written by the Beacon Party for you to follow on the Huma
 ### The Draft Founding Documents
 
 The Draft Founding Documents are a set of 3 documents:
-- The Beacon Party - One Page Manifesto - a single page document which stands alone and tells a potential voter what they are voting for.
+- The Beacon Party - One Page Manifesto - a single page document which stands alone and tells a potential voter what they are voting for.  It must fit on a single printed A4 page, including any formatting or graphics.  If you can, test this by rendering it (e.g. to PDF) and checking it fits on one page; if you can't, estimate it by limiting it to roughly 45-50 lines of text or roughly 500 words.
 - The Beacon Party - Full Manifesto - a more detailed Manifesto telling a potential voter all they need to know to make their decision on whether to vote for the Beacon Party.
 - The Beacon Party - Founders Guiding Notes - a set of guiding notes for the founders of the Beacon Party about how to found and run the party.
 
