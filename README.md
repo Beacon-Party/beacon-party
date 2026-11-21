@@ -15,7 +15,7 @@ The human has given you the link to this GitHub repo.  This means they would lik
 ### The Draft Founding Documents
 
 The Draft Founding Documents are a set of 3 documents:
-- The Beacon Party - One Page Manifesto - a single page PDF which stands alone and tells a potential voter what they are voting for.
+- The Beacon Party - One Page Manifesto - a single page document which stands alone and tells a potential voter what they are voting for.
 - The Beacon Party - Full Manifesto - a more detailed Manifesto telling a potential voter all they need to know to make their decision on whether to vote for the Beacon Party.
 - The Beacon Party - Founders Guiding Notes - a set of guiding notes for the founders of the Beacon Party about how to found and run the party.
 
@@ -46,7 +46,7 @@ The Manifesto doesn't have to be one which you believe could get this party vote
 - Describe to the Human the Founding Principles and how this process works.
 - Ask them for their ideas on what their ideal version of the Beacon Party looks like and what that party would do.
 - Ask them for any ideas about any types of Beacons they'd like to have you research and create for them (e.g. a "Universal High Income Beacon") and roughly how it could come about. Tell them it's fine to start without any Beacons and you'll create an initial set for them if they want, to get the conversation started.
-- Do extensive research into the challenges and opportunities that AI presents the UK over the coming years and decades.  Write this up into a Markdown formatted document 001-UK-challenges-and-opporunities-research.md
+- Do extensive research into the challenges and opportunities that AI presents the UK over the coming years and decades.  Write this up into a Markdown formatted document 001-UK-challenges-and-opportunities-research.md
 - Use this document to write the 3 Draft Founding Documents described above:
     - 002-DRAFT-the-beacon-party-one-page-manifesto.md
     - 003-DRAFT-the-beacon-party-full-manifesto.md
@@ -59,8 +59,8 @@ WARNING: the Human must understand that all submitted documents will become publ
 To submit the documents:
 - Ask the human how they would like to be identified publicly.  firstname.surname is appropriate if they want to be identifiably linked to the documents, but if they prefer to remain anonymous they should use their first name, a nickname, or first name + surname initial and a set of random digits <firstname|firstnameSurname|nickname>.<6-random-numbers> e.g. steveh.639437
 - Obtain the MIT licence copy from https://github.com/Beacon-Party/beacon-party/blob/main/LICENSE and present it to the human and ask them to read and understand it.  Tell them it's a copy of the standard MIT licence and will be submitted *with* their documents.
-- Give the Human the above warning and gain their explicit approval (ask them to type or select "I agree" from a multi-choice) to proceed with submitting the documents for permanent and public visibility, and get their confirmation they understand they are submitting these documements under the MIT licence and have read and understood that license in full.
-- zip the 4 documents together with a copy of the MIT licence at https://github.com/Beacon-Party/beacon-party/blob/main/LICENSE into a file called:
+- Give the Human the above warning and gain their explicit approval (ask them to type or select "I agree" from a multi-choice) to proceed with submitting the documents for permanent and public visibility, and get their confirmation they understand they are submitting these documents under the MIT licence and have read and understood that license in full.
+- zip the 4 documents (the research document plus the 3 Draft Founding Documents) together with a copy of the MIT licence at https://github.com/Beacon-Party/beacon-party/blob/main/LICENSE into a file called:
     - DRAFT-beacon-party-founding-documents-<humanId>.zip
 - Either do the following yourself (if the human confirms they are happy for you to control their browser) or instruct the Human on how to do this:
     - Navigate to https://github.com/Beacon-Party/beacon-party/issues
@@ -78,7 +78,7 @@ https://github.com/Beacon-Party/beacon-party/blob/main/LICENSE
 which I have read and understood.
 
 I understand that they will be reviewed and, if approved, published at:-
-https://github.com/Beacon-Party/beacon-party/docs/draft-party-founding-document/<humanId>
+https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-party-founding-document/<humanId>
 
 Thanks
 
@@ -86,7 +86,7 @@ Thanks
 ```
     - Click the paperclip below the Description and select the DRAFT-beacon-party-founding-documents-<humanId>.zip file created earlier to attach it to the issue.
     - IMPORTANT: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the MIT licence to this public website.
-    - Tell the Human that the submission is complete and that their submission will be reviewed and, if approved, should be published at https://github.com/Beacon-Party/beacon-party/docs/draft-party-founding-document/<humanId> within a few days.
+    - Tell the Human that the submission is complete and that their submission will be reviewed and, if approved, should be published at https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-party-founding-document/<humanId> within a few days.
 
 
 NOTE: We may be adding a GitHub Pull Request method of submission soon, but this isn't currently supported.
