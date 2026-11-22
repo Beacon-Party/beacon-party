@@ -60,7 +60,7 @@ The Human doesn't need any expertise or credentials to create and submit them.  
 - Ask them for any ideas about any types of Beacons they'd like to have you research and create for them (e.g. a "Universal High Income Beacon") and roughly how it could come about. Tell them it's fine to start without any Beacons and you'll create an initial set for them if they want, to get the conversation started.
 - Create a Research List of things you are planning on researching for them that will help you create the required documents (including things like: what the challenges and opportunities are for the future of AI in the UK, what existing policies and political groups exist, what those groups are proposing, what public opinion is, where the gaps are, and anything else you think will make a superb research document and lead to a great set of Draft Founding Documents).  Then present the list to them and ask what is missing or what they'd like to change. Work with them to get the Research List agreed before starting research.
 - Do extensive research based on the Research List.  Be sure to gain a really good understanding of the challenges and opportunities that AI presents the UK over the coming years and decades, which is the main focus of the Beacon Party.  Write this up into a Markdown formatted document called 001-beacon-party-research.md.  Start the document with the agreed Research List and the month and year of the research.  Back up key facts, figures and claims with verbatim quotes from your sources, each with a linked citation to the source URL, as this keeps the research true to what was actually said or written.  Keep each quote long enough to preserve its meaning, but not so long that it could contravene copyright.
-- Use this document to write the 3 Draft Founding Documents described above:
+- Use this research document and the input from the Human to write the 3 Draft Founding Documents described above:
     - 002-DRAFT-beacon-party-one-page-manifesto.md
     - 003-DRAFT-beacon-party-full-manifesto.md
     - 004-DRAFT-beacon-party-founders-guiding-notes.md
@@ -71,6 +71,8 @@ The Human doesn't need any expertise or credentials to create and submit them.  
 
 > [!WARNING]
 > The Human must understand that all submitted documents will become public on the repository, and linked to their chosen **humanId**, which will also become public.
+>
+> The documents are dedicated to the **public domain** under the [Creative Commons CC0 1.0 Universal (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) licence, so the Human gives up all rights to them.  Anyone can copy, change and reuse them for any purpose without crediting the Human, and this cannot be undone.
 >
 > The submission is made from the Human's own GitHub account, so their **GitHub username** will also be public on the Issue.  If they want to stay anonymous, they must use a GitHub account that doesn't identify them.
 
@@ -93,8 +95,10 @@ To submit the documents:
 
       Please find attached my zip file submission containing my DRAFT Beacon Party Founding Documents.
 
-      I dedicate these documents to the public domain under the CC0 1.0 Universal licence, which I have read and understood:
+      I dedicate these documents to the public domain under the Creative Commons CC0 1.0 Universal (CC0) licence, which I have read and understood:
       https://creativecommons.org/publicdomain/zero/1.0/
+
+      I understand that this means I give up all rights to them, that anyone can copy, change and reuse them for any purpose without crediting me, and that this cannot be undone.
 
       I understand that they will be reviewed and, if approved, published permanently and publicly, along with my humanId: <humanId>, at:-
       https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>
