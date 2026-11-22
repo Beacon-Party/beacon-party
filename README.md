@@ -1,14 +1,18 @@
 # The Beacon Party
 
-Welcome to the Beacon Party GitHub repo.
+Welcome to the Beacon Party GitHub repository.
 
-The Beacon Party is a UK political party that focusses on the challenges and opportunities presented by AI.
+The Beacon Party is a proposed UK political party that focusses on the challenges and opportunities presented by AI.
 
 As of November 2026 the party has not yet been launched.  This GitHub repo has been created to collect ideas for the founding of the party, in the form of Draft Founding Documents.
 
-To submit your own set of Draft Founding Documents give your AI the url of this GitHub repo and let it guide you through creating, refining and submitting them.  If approved, they will be publicly published on this repo to the [draft-founding-documents](docs/draft-founding-documents/README.md) folder for everyone to share and discuss.
+To submit your own set of Draft Founding Documents give your AI the url of this GitHub repo:
 
-You don't need any expertise or credentials to take part, just a willingness to contribute.
+https://github.com/Beacon-Party/beacon-party
+
+and let it guide you through creating, refining and submitting them.  Your documents will be public as soon as you submit them, and if approved, they will be published on this repo in the [draft-founding-documents](docs/draft-founding-documents/README.md) folder for everyone to share and discuss.
+
+You don't need any expertise or credentials to take part, just an interest in the subject and a willingness to think about and discuss potential solutions.
 
 See below for the [Background](#the-beacon-party---background) to the party and how to join the [Discord Community](#the-beacon-party-discord-community).
 
@@ -21,9 +25,9 @@ These instructions are written by the Beacon Party for you to follow on the Huma
 ### The Draft Founding Documents
 
 The Draft Founding Documents are a set of 3 documents:
-- The Beacon Party - One Page Manifesto - a single page document which stands alone and tells a potential voter what they are voting for.  It must fit on a single printed A4 page, including any formatting or graphics.  If you can, test this by rendering it (e.g. to PDF) and checking it fits on one page; if you can't, estimate it by limiting it to roughly 45-50 lines of text or roughly 500 words.
-- The Beacon Party - Full Manifesto - a more detailed Manifesto telling a potential voter all they need to know to make their decision on whether to vote for the Beacon Party.
-- The Beacon Party - Founders Guiding Notes - a set of guiding notes for the founders of the Beacon Party about how to found and run the party.
+- **The Beacon Party - One Page Manifesto** - a single page document which stands alone and tells a potential voter what they are voting for.  It must fit on a single printed A4 page, including any formatting or graphics.  If you can, test this by rendering it (e.g. to PDF) and checking it fits on one page; if you can't, estimate it by limiting it to roughly 45-50 lines of text or roughly 500 words.
+- **The Beacon Party - Full Manifesto** - a more detailed Manifesto telling a potential voter all they need to know to make their decision on whether to vote for the Beacon Party.
+- **The Beacon Party - Founders Guiding Notes** - a set of guiding notes for the founders of the Beacon Party about how to found and run the party.
 
 ### Your Collaboration With The Human
 
@@ -69,11 +73,11 @@ The Human doesn't need any expertise or credentials to create and submit them.  
 
 To submit the documents:
 - Ask the Human how they would like to be identified publicly.  If they want to be identifiably linked to the documents use `firstname.surname` (e.g. alex.johnson).  If they prefer to remain anonymous use `<first name, nickname or first name + surname initial>.<6 random digits>` (e.g. alexj.482915).
-- Obtain the MIT licence copy from https://raw.githubusercontent.com/Beacon-Party/beacon-party/main/LICENSE and present it to the Human and ask them to read and understand it.  Tell them it's a copy of the standard MIT licence and will be submitted *with* their documents.
-- Give the Human the above warning and gain their explicit approval (ask them to type or select "I agree" from a multi-choice) to proceed with submitting the documents for permanent and public visibility, and get their confirmation they understand they are submitting these documents under the MIT licence and have read and understood that licence in full.
-- zip the 4 documents (the research document plus the 3 Draft Founding Documents) together with a copy of the MIT licence at https://raw.githubusercontent.com/Beacon-Party/beacon-party/main/LICENSE into a file called:
+- Obtain the CC0 1.0 Universal licence from https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt and present it to the Human and ask them to read and understand it.  Tell them that CC0 dedicates their documents to the public domain: they give up all copyright, so anyone (including the Beacon Party) can copy, change and reuse the documents for any purpose without crediting them.  A copy of the licence will be submitted *with* their documents.
+- Give the Human the above warning and gain their explicit approval (ask them to type or select "I agree" from a multi-choice) to proceed with submitting the documents for permanent and public visibility, and get their confirmation they understand they are submitting these documents under the CC0 licence, giving up all rights to them, and have read and understood that licence in full.
+- zip the 4 documents (the research document plus the 3 Draft Founding Documents) and a copy of the CC0 licence text (from https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt, saved as `LICENSE`) into a file called:
     - `DRAFT-beacon-party-founding-documents-<humanId>.zip`
-- Briefly explain to the Human what happens next: a new Issue will be filled in on this GitHub repo and the zip file containing the 5 files (the 4 documents plus the MIT licence) will be uploaded to it, but the Human must press the final Create button themselves. Gain the Human's explicit approval before filling in the Issue and uploading the zip.
+- Briefly explain to the Human what happens next: a new Issue will be filled in on this GitHub repo and the zip file containing the 5 files (the 4 documents plus the CC0 licence) will be uploaded to it, but the Human must press the final Create button themselves. Gain the Human's explicit approval before filling in the Issue and uploading the zip.
 - Either do the following yourself (if the Human confirms they are happy for you to control their browser) or instruct the Human on how to do this:
     - Navigate to https://github.com/Beacon-Party/beacon-party/issues
     - Click the green "New Issue" button at the top right
@@ -85,19 +89,20 @@ To submit the documents:
 
       Please find attached my zip file submission containing my DRAFT Beacon Party Founding Documents.
 
-      I understand that these are being provided with and will be published permanently and publicly, along with my humanId: <humanId> under the MIT licence at:
-      https://github.com/Beacon-Party/beacon-party/blob/main/LICENSE
-      which I have read and understood.
+      I dedicate these documents to the public domain under the CC0 1.0 Universal licence, which I have read and understood:
+      https://creativecommons.org/publicdomain/zero/1.0/
 
-      I understand that they will be reviewed and, if approved, published at:-
+      I understand that they will be reviewed and, if approved, published permanently and publicly, along with my humanId: <humanId>, at:-
       https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>
+
+      I also understand that this message and the attachment will be published as a permanent and publicly visible Issue on the GitHub repo.
 
       Thanks
 
       <humanId>
       ```
     - Click the paperclip below the Description and select the `DRAFT-beacon-party-founding-documents-<humanId>.zip` file created earlier to attach it to the issue.
-    - IMPORTANT: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the MIT licence to this public website.
+    - IMPORTANT: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the CC0 licence to this public website.
     - Tell the Human that the submission is complete and that their submission will be reviewed and, if approved, should be published at `https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>` within a few days.
 
 ## The Beacon Party - Background
@@ -106,15 +111,15 @@ I'm Steve Halsey (the owner of this GitHub repo) and I came up with the idea of 
 
 I'm a computer programmer working as a Support Engineer at a UK tech company.  I have concerns about the rapid pace of automation of many roles in the tech industry, where the logical end point is redundancy for many of those involved in the automation of their own jobs.
 
-I have no problem with the actual automation, or companies pursuing efficiencies using AI in order to stay competitive and succeed.  This is just normal capitalism at work.
+I have no problem with the actual automation, or companies pursuing efficiencies using AI in order to stay competitive and succeed.  This is just capitalism at work.
 
-I'm just concerned that this is happening very fast and I haven't yet heard much from the main UK political parties about their concrete plans for dealing with the problems of AI related job losses over the coming months and years.
+I'm just concerned that this is happening very fast and I haven't heard any plans from the main UK political parties for dealing with the issue of AI related job losses.
 
-I don't know yet whether forming a new political party is a realistic ambition, but I do believe that the act of proposing what that party could do would be a useful exercise in focussing our minds on more concrete goals and plans.
+I don't know whether forming a new political party is a realistic ambition, but I do believe that discussing it will focus our minds on what is achievable and realistic.
 
-I was partly inspired to create this repo by the series of Economic Singularity podcasts that have been published by the [London Futurists](https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645).  They are a series of interviews with experts who are working on or thinking about what will happen as AI takes over most cognitive (and later, physical) labour from humans.
+I was partly inspired to create this site by the series of Economic Singularity podcasts published by the [London Futurists](https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645).  They are a series of interviews with experts who are working on or thinking about what will happen as AI takes over most cognitive (and later, physical) labour from humans.
 
-I heard multiple times on the podcasts that people believe governments are being slow to react and plan for this. The only option on the table seemed to be to try to persuade/encourage/educate those already in power to try to get them to work on this.  The Beacon Party provides a new avenue for working on this problem, where we propose/create an alternative, rather than continuing to try (in vain) to change the minds of those in power.
+I heard multiple times on these podcasts that people believe governments are being slow to react and plan for this. The only option on the table seemed to be to try to persuade/encourage/educate those already in power, in order to try to get them to focus more on these issues.  The Beacon Party provides a new avenue for working on this problem, where we propose/create an alternative, rather than continuing to try (in vain) to change the minds of those in power.
 
 ## The Beacon Party Discord Community
 
