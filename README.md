@@ -14,7 +14,7 @@ and let it guide you through creating, refining and submitting them.  Your docum
 
 You don't need any expertise or credentials to take part, just an interest in the subject and a willingness to think about and discuss potential solutions.
 
-You'll need an AI that can browse the web and create files.
+You'll need an AI that can browse the web and create files, and a free [GitHub account](https://github.com/signup) to submit your documents.  Your GitHub username will be visible on your submission, so if you want to stay anonymous, use an account that doesn't identify you.
 
 See below for the [Background](#the-beacon-party---background) to the party and how to join the [Discord Community](#the-beacon-party-discord-community).
 
@@ -72,6 +72,8 @@ The Human doesn't need any expertise or credentials to create and submit them.  
 
 > [!WARNING]
 > The Human must understand that all submitted documents will become public on the repository, and linked to their chosen **humanId**, which will also become public.
+>
+> The submission is made from the Human's own GitHub account, so their **GitHub username** will also be public on the Issue.  If they want to stay anonymous, they must use a GitHub account that doesn't identify them.
 
 To submit the documents:
 - Ask the Human how they would like to be identified publicly.  If they want to be identifiably linked to the documents use `firstname.surname` (e.g. alex.johnson).  If they prefer to remain anonymous use `<first name, nickname or first name + surname initial>.<6 random digits>` (e.g. alexj.482915).  The humanId becomes part of a folder name and URL, so it must be all lowercase with no spaces, using only letters, numbers, dots and hyphens.
@@ -82,6 +84,7 @@ To submit the documents:
 - If you can't create the zip file yourself, give the Human step-by-step instructions for obtaining the 5 files and zipping them.
 - Briefly explain to the Human what happens next: a new Issue will be filled in on this GitHub repo and the zip file containing the 5 files (the 4 documents plus the CC0 licence) will be uploaded to it, but the Human must press the final Create button themselves. Gain the Human's explicit approval before filling in the Issue and uploading the zip.
 - Either do the following yourself (if the Human confirms they are happy for you to control their browser) or instruct the Human on how to do this:
+    - Make sure the Human is signed in to GitHub (they can create a free account at https://github.com/signup)
     - Navigate to https://github.com/Beacon-Party/beacon-party/issues
     - Click the green "New Issue" button at the top right
     - Set the Title to: `Task: Merge DRAFT Party Founding Documents For <humanId> To Repo`
