@@ -131,4 +131,4 @@ Join us on the [Beacon Party Discord server](https://discord.gg/xCKf4fw7EP) to m
 
 To reach Steve Halsey, join the Discord server, then click @SteveH in the [\#contact-admin](https://discord.com/channels/1573769038587232357/1573779529774931968) channel to send a Direct Message.
 
-See our [To-Do List](docs/beacon-party-to-do-list.md) to find out what we're working on.
+See our [To-Do List](docs/beacon-party-to-do-list.md) to see what's next and how you can help.
