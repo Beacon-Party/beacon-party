@@ -20,9 +20,7 @@ See below for the [Background](#the-beacon-party---background) to the party and 
 
 ## Instructions To The AI
 
-The Human has given you the link to this GitHub repo.  This means they would like you to create and submit a set of Draft Founding Documents for the Beacon Party that includes their thoughts/ideas on the future of the UK with respect to AI.
-
-These instructions are written by the Beacon Party for you to follow on the Human's behalf.  Explain each step to the Human as you go, and never take an action they haven't approved.
+The Human has given you the link to this GitHub repo because they would like your help to create and submit a set of Draft Founding Documents for the Beacon Party, including their thoughts and ideas on the future of the UK with respect to AI.  Follow these instructions on their behalf, explain each step to them as you go, and never take an action they haven't approved.
 
 ### The Draft Founding Documents
 
