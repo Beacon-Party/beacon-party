@@ -85,10 +85,10 @@ To submit the documents:
 - If you can't create the zip file yourself, give the Human step-by-step instructions for obtaining the 5 files and zipping them.
 - Briefly explain to the Human what happens next: a new Issue will be filled in on this GitHub repo and the zip file containing the 5 files (the 4 documents plus the CC0 licence) will be uploaded to it, but the Human must press the final Create button themselves. Gain the Human's explicit approval before filling in the Issue and uploading the zip.
 - Either do the following yourself (if the Human confirms they are happy for you to control their browser) or instruct the Human on how to do this:
-    - Make sure the Human is signed in to GitHub (they can create a free account at https://github.com/signup)
+    - Ask the Human to make sure they are signed in to GitHub in their browser (they can create a free account at https://github.com/signup)
     - Navigate to https://github.com/Beacon-Party/beacon-party/issues
     - Click the green "New Issue" button at the top right
-    - Set the Title to: `Task: Merge DRAFT Party Founding Documents For <humanId> To Repo`
+    - Set the Title to: `Task: Review And Merge DRAFT Party Founding Documents For <humanId> To Repo`
     - In the Description paste the following:-
       ```
       Hi,
@@ -110,7 +110,7 @@ To submit the documents:
       <humanId>
       ```
     - Click the paperclip below the Description and select the `DRAFT-beacon-party-founding-documents-<humanId>.zip` file created earlier to attach it to the issue.
-    - IMPORTANT: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the CC0 licence to this public website.
+    - **IMPORTANT**: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the CC0 licence to this public website.
     - Once the Human has pressed Create, tell them that the submission is complete and that their submission will be reviewed and, if approved, should be published at `https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>` within a few days.
 
 ## The Beacon Party - Background
@@ -125,9 +125,14 @@ I'm just concerned that this is happening very fast and I haven't heard any plan
 
 I don't know whether forming a new political party is a realistic ambition, but I do believe that discussing it will focus our minds on what is achievable and realistic.
 
-I was partly inspired to create this site by the series of Economic Singularity podcasts published by the [London Futurists](https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645).  They are a series of interviews with experts who are working on or thinking about what will happen as AI takes over most cognitive (and later, physical) labour from humans.
+I was partly inspired to create this site by the series of Economic Singularity podcasts published by the [London Futurists](https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645).  They are a series of interviews with experts who are working on or thinking about what will happen as AI takes over most cognitive (and later, physical) labour from humans.  If you're interested I can highly recommend the following 5 episodes that I've listened to:
+- [LFP 128: Adrian Brown - Windfall Trust and the Economic Singularity](https://podcasts.apple.com/gb/podcast/lfp-128-adrian-brown-windfall-trust-and-the/id1642832645?i=1000763008975) - the Economic Preparedness aim of the [Windfall Trust](https://windfalltrust.org/about) seems to align almost perfectly with the Core Founding Principles (especially the Assumptions) of the proposed Beacon Party.
+- [LFP 133: Oliver Ritchie - Waking up Economists](https://podcasts.apple.com/gb/podcast/lfp-133-oliver-ritchie-waking-up-economists/id1642832645?i=1000779818025) - great to hear ideas and thoughts from Oliver Ritchie who has worked in the UK government and written essays related to the Economic Singularity.  Makes the point that "a groundswell of public opinion is already happening".
+- [LFP 134: Ewan McMillan - AI overhang and economics impact](https://podcasts.apple.com/gb/podcast/lfp-134-ewan-mcmillan-ai-overhang-and-economics-impact/id1642832645?i=1000782885837) - a very good (and technical) analysis of the current situation and how the future could unfold.
+- [LFP 131: Ben Luong - The Discontinuity Thesis](https://podcasts.apple.com/gb/podcast/lfp-131-ben-luong-the-discontinuity-thesis/id1642832645?i=1000774525736) - Ben has a brilliant and very direct way of explaining his ideas on the Economic Singularity.  He's also spent a long time working with AI to research and create his [Discontinuity Thesis essays](https://discontinuitythesis.com/thesis/).  This is similar to the model we are using here where people work with AI to create proposals for the Beacon Party manifesto and Founding Documents.
+- [LFP 129: Ted Shelton - Post-labour economics and the future of capitalism](https://podcasts.apple.com/gb/podcast/lfp-129-ted-shelton-post-labour-economics-and-the/id1642832645?i=1000766918199) - Ted wrote a highly relevant paper: ["On the Transformation of Capitalism's Fundamental Assumptions Under Conditions of Scaling Machine Intelligence"](https://tedshelton.me/downloads) and has a lot of experience of how the tech industry works.
 
-I heard multiple times on these podcasts that people believe governments are being slow to react and plan for this. The only option on the table seemed to be to try to persuade/encourage/educate those already in power, in order to try to get them to focus more on these issues.  The Beacon Party provides a new avenue for working on this problem, where we propose/create an alternative, rather than continuing to try (in vain) to change the minds of those in power.
+I heard multiple times on these podcasts that people believe governments are being slow to react and plan for this. The only option on the table seemed to be to try to persuade/encourage/educate those already in power, in order to try to get them to focus more on these issues.  The Beacon Party provides a new avenue for working on this problem, where we propose/create an alternative, rather than continuing to try (in vain?) to change the minds of those already in power.
 
 ## The Beacon Party Discord Community
 
