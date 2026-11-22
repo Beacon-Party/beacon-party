@@ -16,7 +16,7 @@ You don't need any expertise or credentials to take part, just an interest in th
 
 You'll need an AI that can browse the web and create files, and a free [GitHub account](https://github.com/signup) to submit your documents.  Your GitHub username will be visible on your submission, so if you want to stay anonymous, use an account that doesn't identify you.
 
-See below for the [Background](#the-beacon-party---background) to the party and how to join the [Discord Community](#the-beacon-party-discord-community).
+See below for the [Background](#the-beacon-party---background) to the party and how to join the [Discord Community](#the-beacon-party-discord-community), and see the [To-Do List](docs/beacon-party-to-do-list.md) for what's next.
 
 ## Instructions To The AI
 
