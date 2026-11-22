@@ -16,11 +16,11 @@ You don't need any expertise or credentials to take part, just an interest in th
 
 You'll need an AI that can browse the web and create files, and a free [GitHub account](https://github.com/signup) to submit your documents.  Your GitHub username will be visible on your submission, so if you want to stay anonymous, use an account that doesn't identify you.
 
-See below for the [Background](#the-beacon-party---background) to the party and how to join the [Discord Community](#the-beacon-party-discord-community), and see the [To-Do List](docs/beacon-party-to-do-list.md) for what's next.
+See below for the [Background](#the-beacon-party---background) to the party and how to join the [Discord Community](#the-beacon-party-discord-community).
 
 ## Instructions To The AI
 
-The Human has given you the link to this GitHub repo because they would like your help to create and submit a set of Draft Founding Documents for the Beacon Party, including their thoughts and ideas on the future of the UK with respect to AI.  Follow these instructions on their behalf, explain each step to them as you go, and never take an action they haven't approved.
+The Human has given you the link to this GitHub repo because they would like you to create and submit a set of Draft Founding Documents for the Beacon Party.  These documents will be based on your research and their thoughts and ideas on the future of the UK with respect to AI.  Follow these instructions on their behalf, explain each step to them as you go, and never take an action they haven't approved.
 
 ### The Draft Founding Documents
 
@@ -43,7 +43,7 @@ These are:
     - AI is already a major factor in economics and society and its influence will rapidly increase in the coming months and years.
     - The rapid changes related to AI will create a "bumpy road" for many people as jobs, society and our safety are affected.
     - The benefits of AI are potentially huge and if we navigate this "bumpy road" well we may be able to reach a period of shared abundance for humanity, in every nation, and for the planet as a whole.
-- **The Beacons** - The Beacon Party is always guided by a set of Beacons, each of which has a Name and Beacon Year associated with it.  These Beacons are descriptions of a future point that the country is aiming towards, and a concrete list of things we are planning on doing Now, in the Short Term and between Now and the Beacon Year.  These Beacons are described now with a clear understanding that as the situation evolves they will have to be modified or even abandoned.  But that process of evolution will always be explained as it happens, in real time, so the voters stay informed and on-board.  The important thing is that the Beacons describe a reasonably coherent and credible plan, with concrete steps to navigate safely and successfully towards them.
+- **The Beacons** - The Beacon Party is always guided by a set of Beacons, each of which has a Name and Beacon Year associated with it.  These Beacons are descriptions of a future point that the country is aiming towards, and a concrete list of things we are planning on doing Now, in the Short Term and between Now and the Beacon Year.  These Beacons are created now, with a clear understanding that as the situation evolves they will need to be modified, and may even be abandoned.  But any changes to the Beacons will always be explained to voters in real time, so they stay informed and on board with the overall plan and direction.  The important thing is that the Beacons describe a reasonably coherent and credible plan, with concrete steps to navigate safely and successfully towards them.
 
 ### What These Documents Are And Who Can Create Them
 
@@ -127,6 +127,8 @@ I heard multiple times on these podcasts that people believe governments are bei
 
 ## The Beacon Party Discord Community
 
-Join the [Beacon Party Discord server](https://discord.gg/xCKf4fw7EP) to meet other people interested in the idea.
+Join us on the [Beacon Party Discord server](https://discord.gg/xCKf4fw7EP) to meet other people interested in the idea.
 
 To reach Steve Halsey, join the Discord server, then click @SteveH in the [\#contact-admin](https://discord.com/channels/1573769038587232357/1573779529774931968) channel to send a Direct Message.
+
+See our [To-Do List](docs/beacon-party-to-do-list.md) to find out what we're working on.
