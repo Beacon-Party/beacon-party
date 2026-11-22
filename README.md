@@ -79,7 +79,7 @@ To submit the documents:
 - Give the Human the above warning and gain their explicit approval (ask them to type or select "I agree" from a multi-choice) to proceed with submitting the documents for permanent and public visibility, and get their confirmation they understand they are submitting these documents under the CC0 licence, giving up all rights to them, and have read and understood that licence in full.
 - zip the 4 documents (the research document plus the 3 Draft Founding Documents) and a copy of the CC0 licence text (from https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt, saved as `LICENSE`) into a file called:
     - `DRAFT-beacon-party-founding-documents-<humanId>.zip`
-- If you can't create files or zip files yourself, give the Human the contents of each of the 5 files and step-by-step instructions for saving and zipping them.
+- If you can't create the zip file yourself, give the Human step-by-step instructions for obtaining the 5 files and zipping them.
 - Briefly explain to the Human what happens next: a new Issue will be filled in on this GitHub repo and the zip file containing the 5 files (the 4 documents plus the CC0 licence) will be uploaded to it, but the Human must press the final Create button themselves. Gain the Human's explicit approval before filling in the Issue and uploading the zip.
 - Either do the following yourself (if the Human confirms they are happy for you to control their browser) or instruct the Human on how to do this:
     - Navigate to https://github.com/Beacon-Party/beacon-party/issues
