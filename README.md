@@ -111,7 +111,7 @@ To submit the documents:
 
       <humanId>
       ```
-    - Click the paperclip below the Description and select the `DRAFT-beacon-party-founding-documents-<humanId>.zip` file created earlier to attach it to the issue.
+    - Attach the `DRAFT-beacon-party-founding-documents-<humanId>.zip` file created earlier to the Issue: click the paperclip below the Description and select it, or drag the zip into the Description box.  If you can't do this yourself (many AI browser tools can't use the file picker), ask the Human to do it.
     - **IMPORTANT**: Do **not** hit the Create button - the Human must be guided to read and approve the message and then hit this button themselves, so they are submitting the documents under the CC0 licence to this public website.
     - Once the Human has pressed Create, tell them that the submission is complete and that their submission will be reviewed and, if approved, should be published at `https://github.com/Beacon-Party/beacon-party/tree/main/docs/draft-founding-documents/<humanId>` within a few days.
 
