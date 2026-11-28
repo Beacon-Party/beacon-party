@@ -71,7 +71,7 @@ Small mistakes such as a wrong file name, a missing header or an over-long One P
 
 ### 5. Links, checked as text only
 
-Don't visit or fetch any link. List the domains linked to, and **Reject** if any link is clearly unsafe:
+Don't visit or fetch any link, even with `curl`. The documents come from strangers, so any link could be malicious, and visiting it from the Human's computer could attack their computer, accounts or home network (see Ground rules). Checking links as text also protects readers, who will click these links once the documents are published. List the domains linked to, and **Reject** if any link is clearly unsafe:
 - not `http` or `https` (e.g. `file:`, `javascript:`, `data:`)
 - a raw IP address, `localhost`, or a host ending in `.local` or `.internal`
 - a URL shortener (e.g. bit.ly, tinyurl) that hides the real destination
