@@ -54,6 +54,7 @@ Open `https://github.com/Beacon-Party/beacon-party/issues/<number>` in the brows
 - `diff` the submitted `LICENSE` against the repo's own `LICENSE` (the official CC0 1.0 Universal text). Any difference other than trailing whitespace: **Reject**.
 - The documents are genuinely about the Beacon Party and AI in the UK. **Reject** spam, gibberish, empty or placeholder documents, or content unrelated to the party.
 - Report any extra files (e.g. a prompts log) and recommend whether to leave them out or publish them renamed, especially if a file name reveals a real name.
+    - **Exception:** if the documents refer to an extra file by name (e.g. "Every prompt is recorded in `000-prompts.md`"), leaving it out or renaming it would leave those references pointing at a missing file. In that case you may recommend publishing it **unchanged**, but this is a divergence from the normal process. Before publishing it, the Human must acknowledge this by choosing from a multiple-choice question (a drop-down, e.g. the AskUserQuestion tool), not by typing a reply. Offer these options: "I acknowledge this is a divergence from the normal process: publish it unchanged", "Leave it out" and "Publish it renamed". Publish it unchanged only if the Human picks the first option, and record the divergence in the reviewer comments (step 8).
 
 Small mistakes such as a wrong file name, a missing header or an over-long One Page Manifesto are **not** reasons to reject. Mention them in the report only.
 
