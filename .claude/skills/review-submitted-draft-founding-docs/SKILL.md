@@ -109,7 +109,15 @@ If the recommendation is not **Approve**, stop here.
 Ask the Human: "Publish these documents to the repo and commit?" Only continue on a clear yes.
 
 1. Copy the 4 documents and `LICENSE` (plus any extra files the Human agreed to include) into `docs/draft-founding-documents/<humanId>/`, unchanged.
-2. Update `docs/draft-founding-documents/README.md`: remove "There are no submissions yet" if present, and add the submission to the list of published submissions, linking to its One Page Manifesto (a file, not the folder, so the link works in VS Code's preview).
-3. Show the Human `git status` and the README change, then commit with a message like `Publish Draft Founding Documents for <humanId> (Issue #<n>)`.
-4. Ask the Human before pushing.
-5. After pushing, offer to comment on the Issue with the link to the published folder and close it. Show the comment text and get approval before posting.
+2. Write `docs/draft-founding-documents/<humanId>/reviewer-comments-<humanId>.md` from the report, and show it to the Human for approval before committing. Keep it short, factual and neutral in tone (it is public, next to someone's work), and include:
+    - the Issue link, the review date, the reviewer, and the AI model used for the review (e.g. Claude Opus 5.5 (Anthropic))
+    - the summary results table (PASS / WARN / FAIL)
+    - caveats readers should know about (e.g. broken links, how many quotes were spot-checked and verified, a TEST note in the Issue)
+    - any extra files left out, and why
+    - a closing line: "These reviewer comments are also dedicated to the public domain under the [Creative Commons CC0 1.0 Universal (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) licence."
+
+    Never include details of personal data or possible defamation: a submission with those must not be published at all.
+3. Update `docs/draft-founding-documents/README.md`: remove "There are no submissions yet" if present, and add the submission to the list of published submissions, linking to its One Page Manifesto (a file, not the folder, so the link works in VS Code's preview).
+4. Show the Human `git status` and the README change, then commit with a message like `Publish Draft Founding Documents for <humanId> (Issue #<n>)`.
+5. Ask the Human before pushing.
+6. After pushing, offer to comment on the Issue with the link to the published folder and close it. Show the comment text and get approval before posting.
