@@ -12,6 +12,8 @@ https://github.com/Beacon-Party/beacon-party
 
 and let it guide you through creating, refining and submitting them.  Your documents will be public as soon as you submit them via the GitHub issue system, and if approved, they will be published on this repo in the [draft-founding-documents](docs/draft-founding-documents/README.md) folder, along with the reviewer's comments, for everyone to share and discuss.
 
+See an [example set of Draft Founding Documents](docs/draft-founding-documents/testing.123456/002-DRAFT-beacon-party-one-page-manifesto-testing.123456.md) created during a test run.
+
 You don't need any expertise or credentials to take part, just an interest in the subject and a willingness to think about and discuss potential solutions.
 
 You'll need an AI that can browse the web and create files, and a free [GitHub account](https://github.com/signup) to submit your documents.  Your GitHub username will be visible on your submission, so if you want to stay anonymous, use an account that doesn't identify you.

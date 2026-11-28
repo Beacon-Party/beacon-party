@@ -3,9 +3,9 @@
 What people involved in the Beacon Party can do next.  For now this is mainly a list for Steve, but if you'd like to help with anything here, get in touch on the [Discord server](https://discord.gg/xCKf4fw7EP).
 
 Short term:
-- [ ] Do a test run: give a different AI the repo URL and follow its instructions end to end, using the humanId `test.000001`
+- [x] Do a test run: give a different AI the repo URL and follow its instructions end to end, using the humanId `testing.123456` (see the [published result](draft-founding-documents/testing.123456/002-DRAFT-beacon-party-one-page-manifesto-testing.123456.md))
 - [ ] Share the repo with friends and the [London Futurists](https://podcasts.apple.com/gb/podcast/london-futurists/id1642832645) community, asking for feedback and submissions
-- [ ] Write a reviewer checklist for submissions: false or defamatory claims about real people, personal data, over-long quotes, a CC0 `LICENSE` file, every file name ending in `-<humanId>`, and every document starting with the header section
+- [x] Write a reviewer checklist for submissions (done as the [review-submitted-draft-founding-docs](../.claude/skills/review-submitted-draft-founding-docs/SKILL.md) Claude Code skill)
 
 Longer term:
 - [ ] Check the UK election rules (e.g. digital imprints) with the Electoral Commission before registering the party or advertising
