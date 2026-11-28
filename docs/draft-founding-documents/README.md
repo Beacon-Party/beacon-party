@@ -1,6 +1,12 @@
 # Draft Founding Documents
 
-This folder will hold the sets of Draft Founding Documents submitted for the Beacon Party.  There are no submissions yet.
+This folder holds the sets of Draft Founding Documents submitted for the Beacon Party.
+
+## Published submissions
+
+- [testing.123456](testing.123456/002-DRAFT-beacon-party-one-page-manifesto-testing.123456.md) - a TEST submission, made only to try out the creation and submission process ([Issue #2](https://github.com/Beacon-Party/beacon-party/issues/2))
+
+## What each submission contains
 
 Each approved submission will be published in its own folder, named after the submitter's chosen humanId (e.g. `alex.johnson` or `alexj.482915`), containing:
 - `001-beacon-party-research-<humanId>.md` - the research the documents are based on
